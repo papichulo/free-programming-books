@@ -5,6 +5,7 @@
 
 ### Language Agnostic
 
+* [Podcast] - [Agilpodden](https://agilpodden.podbean.com)
 * [Podcast] - [Kodsnack](http://kodsnack.se)
 * [Podcast] - [Still in beta](http://stillinbeta.se)
 * [Podcast] - [Under utveckling](https://underutveckling.libsyn.com)
